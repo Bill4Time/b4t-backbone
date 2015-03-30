@@ -1,0 +1,19 @@
+{
+  "name": "B4TBackbone",
+  "version": "1.0.0",
+  "description": "Bill4time flavor of Backbone",
+  "main": "index.js",
+  "dependencies": {
+    "backbone": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://jeremydiviney@bitbucket.org/bill4time/b4tbackbone.git"
+  },
+  "author":"Jeremy Diviney <jeremy@bill4time.com>",
+  "license": "ISC"
+}
