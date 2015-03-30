@@ -14,7 +14,7 @@ var model = Backbone.Model.extend({
 ## Installation
 
 ```bash
-$ npm install B4TBackbonen [--save]
+$ npm install B4TBackbone [--save]
 ```
 
 ## Features
