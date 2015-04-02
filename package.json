@@ -4,7 +4,9 @@
   "description": "Bill4time flavor of Backbone",
   "main": "index.js",
   "dependencies": {
-    "backbone": "^1.1.2"
+    "backbone": "^1.1.2",
+    "backbone-computedfields": "0.0.10",
+    "underscore": "^1.8.2"
   },
   "devDependencies": {},
   "scripts": {
@@ -14,6 +16,6 @@
     "type": "git",
     "url": "https://jeremydiviney@bitbucket.org/bill4time/b4tbackbone.git"
   },
-  "author":"Jeremy Diviney <jeremy@bill4time.com>",
+  "author": "Jeremy Diviney <jeremy@bill4time.com>",
   "license": "ISC"
 }
