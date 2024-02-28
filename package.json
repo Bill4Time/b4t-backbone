@@ -1,5 +1,5 @@
 {
-  "name": "@bill4time/B4TBackboneV2",
+  "name": "B4TBackboneV2",
   "version": "1.6.1",
   "description": "Bill4time flavor of Backbone",
   "main": "index.js",
