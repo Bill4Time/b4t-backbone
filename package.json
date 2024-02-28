@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Bill4Time/b4tbackbone.git"
+    "url": "git+https://github.com/Bill4Time/b4tbackbone.git"
   },
   "author": "Jeremy Diviney <jeremy@bill4time.com>",
   "license": "ISC"
