@@ -1,6 +1,6 @@
 {
   "name": "@bill4time/B4TBackbone",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "description": "Bill4time flavor of Backbone",
   "main": "index.js",
   "dependencies": {
